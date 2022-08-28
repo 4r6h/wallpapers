@@ -22,6 +22,7 @@ Because I downloaded most of these from sites like Imgur and /wg/, I have no way
 ## Installation
 
 ```
+mkdir -p /usr/share/backgrounds
 cd /usr/share/backgrounds
 git clone --depth=1 https://github.com/4r6h/wallpapers.git
 rm -rf !$/.git

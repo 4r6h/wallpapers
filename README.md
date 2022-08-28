@@ -18,3 +18,11 @@ The vast majority of these wallpapers are nature and landscape photos.  There ar
 ## Ownership
 
 Because I downloaded most of these from sites like Imgur and /wg/, I have no way of knowing if there is a copyright on these images. If you find an image hosted in this repository that is yours and of limited use, please let me know and I will remove it.
+
+## Installation
+
+```
+cd /usr/share/backgrounds
+git clone --depth=1 https://github.com/4r6h/wallpapers.git
+rm -rf !$/.git
+```
